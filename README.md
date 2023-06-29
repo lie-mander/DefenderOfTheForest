@@ -9,3 +9,4 @@ Developed with Unreal Engine 5
 ![screen_4](https://github.com/lie-mander/DefenderOfTheForest/assets/43217088/f384f168-6200-483c-b4e6-f66dd7564f00)
 ![screen_3](https://github.com/lie-mander/DefenderOfTheForest/assets/43217088/6672600b-1c2e-4d8d-a1f7-63ccc5afca41)
 ![screen_2](https://github.com/lie-mander/DefenderOfTheForest/assets/43217088/10ca85f3-e1e6-487d-8102-87305cb6efdf)
+![canvas_defender-of-the-forest-230629_2022](https://github.com/lie-mander/DefenderOfTheForest/assets/43217088/f54b881b-40cb-4ec1-a103-1cbd39caee57)
